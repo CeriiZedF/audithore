@@ -1,5 +1,8 @@
 # Audithore
 
+![Screenshot 2024-04-16 162848](https://github.com/CeriiZedF/audithore/assets/60105990/0e24e98d-0103-4fb9-8093-4700767edbb9)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Development server
